@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     background-color: bisque;
+     text-align: center;
+     font-weight: bold;
+}
+
+.container{
+    margin: 23px;
+    padding: 32px;
+    /* background-color: #4CAF50; */
+    text-align: center;
+}
+
+span {
+    font-size: 20px;
+    align-items: center;
+}
+
+button{
+    background-color: #4CAF50;
+    color: white;
+    margin: 8px;
+    padding: 8px;
+}
