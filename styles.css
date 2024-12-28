@@ -20,12 +20,12 @@ span {
 }
 
 button{
-    background-color: #4CAF50;
+    background-color: #aec7ae;
     color: white;
-    margin: 8px;
-    padding: 8px;
+    margin: 10px;
+    padding: 10px;
 }
 
 input {
-    padding: 12px;
+    padding: 10px;
 }
